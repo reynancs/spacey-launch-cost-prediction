@@ -4,6 +4,12 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
+
+Examples of an unsuccessful landing are shown here:
+
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
+
 ## 📘 Project Overview
 
 The commercial space era has arrived — private companies are making space travel more accessible than ever. As the space industry becomes more competitive, a new player, **SpaceY**, aims to challenge giants like SpaceX.
