@@ -21,7 +21,7 @@
 | Serial              | Attribute    | Categorical       | Serial number of the booster                                                |
 | Longitude           | Attribute    | Numeric           | Geographic longitude of the launch site                                     |
 | Latitude            | Attribute    | Numeric           | Geographic latitude of the launch site                                      |
-| Y                   | Target       | Binary (0 or 1)   | Classification variable: 1 = successful landing, 0 = failed landing         |
+| Class               | Target       | Binary (0 or 1)   | Classification variable: 1 = successful landing, 0 = failed landing         |
 
 ---
 
@@ -45,4 +45,4 @@
 | Serial               | Atributo     | Categórica            | Número de série do propulsor                                             |
 | Longitude            | Atributo     | Numérica              | Longitude geográfica do local de lançamento                              |
 | Latitude             | Atributo     | Numérica              | Latitude geográfica do local de lançamento                               |
-| Y                    | Alvo         | Binária (0 ou 1)      | Variável de classificação: 1 = pouso com sucesso, 0 = pouso mal-sucedido |
+| Class                | Alvo         | Binária (0 ou 1)      | Variável de classificação: 1 = pouso com sucesso, 0 = pouso mal-sucedido |

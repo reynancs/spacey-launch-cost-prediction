@@ -6,9 +6,6 @@
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
 
-Examples of an unsuccessful landing are shown here:
-
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
 
 ## 📘 Project Overview
 
@@ -35,8 +32,8 @@ However, not every mission results in a successful recovery:
 
 You will:
 - Collect and analyze public SpaceX launch data.
-- Visualize trends using dashboard tools (e.g., Tableau, Plotly, or Looker Studio).
-- Train ML models (e.g., logistic regression, decision trees, random forest) to predict first-stage reuse.
+- Visualize trends using dashboard tools (Plotly).
+- Train ML models (logistic regression, SVM, decision trees, KNN) to predict first-stage reuse.
 
 ## 📦 Project Deliverables
 
